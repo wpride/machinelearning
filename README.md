@@ -12,7 +12,7 @@ Algorithms covered include
 	Logistic Regression
 	Regularization
 	Neural Networks
-	Support Vector MAchines
+	Support Vector Machines
 	Clustering
 	Dimensionality Detection
 	Stochastic Gradient Descent
